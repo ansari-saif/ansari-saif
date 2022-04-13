@@ -58,6 +58,6 @@ Self-motivated team player with one and half years of experience seeking a posit
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ansari-saif/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "contact@ansarisaif.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "mailto:contact@ansarisaif.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 </p>
