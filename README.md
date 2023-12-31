@@ -46,9 +46,6 @@ Self-motivated team player with one and half years of experience seeking a posit
 
 <br/>
 <br/>
-
-<a href="https://github.com/ansari-saif/github-readme-activity-graph"><img alt="Saif Husain Ansari Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ansari-saif&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
